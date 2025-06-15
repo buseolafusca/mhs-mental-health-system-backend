@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@elastic.io/casbin-mongoose-adapter": "^1.0.0",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.1",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
     "casbin": "^3.0.3",
@@ -24,7 +24,7 @@
     "mongoose": "^5.6.0",
     "morgan": "~1.9.1",
     "nodemailer": "^6.3.0",
-    "nodemon": "^1.19.1",
+    "nodemon": "^2.0.0",
     "sinon": "^7.4.1",
     "sinon-mongoose": "^2.3.0",
     "twilio": "^3.33.3",
